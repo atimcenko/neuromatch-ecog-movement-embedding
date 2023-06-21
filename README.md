@@ -124,7 +124,7 @@ What the latent space encodes? 🤔
 ![](blog/bottom.png)
 
 
-**Team:** Antonenkova Yuliya, [Chirkov Valerii](https://github.com/vagechirkov), Latyshkova Alexandra, [Popkova Anastasia](https://github.com/popkova-a), [Timchenko Alexey](https://github.com/AlexeyTimchenko)
+**Team:** Antonenkova Yuliya, [Chirkov Valerii](https://github.com/vagechirkov), Latyshkova Alexandra, [Popkova Anastasia](https://github.com/popkova-a), [Timcenko  Aleksejs](https://github.com/atimcenko)
 
 **TA:** [Kuzmina Ekaterina](https://github.com/NevVerVer)
 
